@@ -4,3 +4,6 @@
 [submodule "meting-api"]
 	path = meting-api
 	url = git@github.com:ihavenoideaa/meting-api.git
+[submodule "memos"]
+	path = memos
+	url = git@github.com:ihavenoideaa/memos_cache_api.git
