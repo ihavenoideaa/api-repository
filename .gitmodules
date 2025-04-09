@@ -1,0 +1,6 @@
+[submodule "favicon"]
+	path = favicon
+	url = git@github.com:ihavenoideaa/getFavicon.git
+[submodule "meting-api"]
+	path = meting-api
+	url = git@github.com:ihavenoideaa/meting-api.git
